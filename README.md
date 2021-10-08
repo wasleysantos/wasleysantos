@@ -1,9 +1,6 @@
 
-<h2>WASLEY SANTOS
-     
-<h4>Estudante de Sistemas de Informação ❤👨🏻‍💻
-
-<h4>Suporte Tecnico em Empreendimentos Pague Menos 💊💉👨🏻‍💻<h3>
+## Oiii eu sou Wasley Santos, estudante de Sistemas de Informação e apaixonado por tecnologia!
+<div align="center">
      
 
 <a href="https://www.linkedin.com/in/wasley-santos-5a824291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
