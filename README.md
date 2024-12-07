@@ -1,6 +1,10 @@
-## Olá, eu sou a Wasley Santos!
-
-<picture>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá+👋;+Me+chamo+Wasley!;+Apaixonado+por+Tecnologia+❤;+Infra+de+TI+💻;+Ciência+de+dados+👨‍🔬;+Estudante+do+Embarcatech🤖;+Seja+bem-vindo!!+🙂" />
+</h1>
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wasleysantos&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
