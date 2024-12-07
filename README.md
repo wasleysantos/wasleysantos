@@ -36,3 +36,4 @@
   
 </div>
 
+![snake gif](https://github.com/wasleysantos//blob/output/github-contribution-grid-snake.svg)
