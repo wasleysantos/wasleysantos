@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá+👋;+Me+chamo+Wasley!;+Apaixonado+por+Tecnologia+❤;+Infra+de+TI+💻;+Ciência+de+dados+👨‍🔬;+Estudante+do+Embarcatech🤖;+Seja+bem-vindo!!+🙂" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hello+👋;+My+namy+is+Wasley!;+Passionate+about +technology+❤;+Infrastructure+TI+💻;+Data+Science+👨‍🔬;+Student+Embarcatech🤖;+Welcome!!+🙂" />
 </h1>
 
 
