@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hello+👋;+My+name+is+Wasley!;+Passionate+about+technology+❤;+Infrastructure+TI+💻;+Data+Science+👨‍🔬;+Student+Embarcatech🤖;+Welcome!!+🙂" />
 
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" ></h2>
 
 <br>
   <div align="center" >
