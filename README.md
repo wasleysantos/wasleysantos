@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá!+👋;+Sistemas+Embarcados!;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;+🙂" />
-<h2 style="color: red;" align="center">Aqui você vai encontrar projetos para sistemas embarcados em Linguagem C, Python e implementação na Raspberry Pi W e BitDogLab</h2>
+<h2 style="color: red;" align="center">Projetos de sistemas embarcados em Linguagem C, Python para implementação na Raspberry Pi W e BitDogLab</h2>
 <h2 align="center" ></h2>
 <br>
   <div align="center" >
