@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá!+👋;+Sistemas+Embarcados!;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" />  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=30&duration=2000&lines=+Sistemas+Embarcados;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" />  
 <h1 align="center">
  👾🤖📟🕹️🛰️
 <h2 align="center" ></h2>
