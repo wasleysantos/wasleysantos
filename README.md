@@ -1,13 +1,14 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá!+👋;+Sistemas+Embarcados!;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;+🙂" />
-<h2 style="color: red;" align="center">Sistemas embarcados em Linguagem C e Python para implementação na Raspberry Pi W e BitDogLab</h2>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Olá!+👋;+Sistemas+Embarcados!;+Linguagem+C;+Python;+BitDogLab;+Raspberry+PI+W;" />  
+<h1 align="center">
+ 👾🤖📟🕹️🛰️
 <h2 align="center" ></h2>
 <br>
   <div align="center" >
   <div align="center" display="inline-block">
   <a href="https://github.com/wasleysantos">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=wasleysantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=wasleysantos&theme=radical&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
